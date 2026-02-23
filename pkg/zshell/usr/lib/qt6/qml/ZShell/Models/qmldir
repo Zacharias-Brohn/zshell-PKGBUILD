@@ -1,0 +1,7 @@
+module ZShell.Models
+linktarget ZShell-modelsplugin
+optional plugin ZShell-modelsplugin
+classname ZShell_ModelsPlugin
+typeinfo ZShell-models.qmltypes
+prefer :/qt/qml/ZShell/Models/
+

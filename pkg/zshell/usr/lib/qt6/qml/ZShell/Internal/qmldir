@@ -1,0 +1,8 @@
+module ZShell.Internal
+linktarget ZShell-internalplugin
+optional plugin ZShell-internalplugin
+classname ZShell_InternalPlugin
+typeinfo ZShell-internal.qmltypes
+prefer :/qt/qml/ZShell/Internal/
+depends QtQuick
+

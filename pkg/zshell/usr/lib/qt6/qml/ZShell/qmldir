@@ -1,0 +1,8 @@
+module ZShell
+linktarget ZShellplugin
+optional plugin ZShellplugin
+classname ZShellPlugin
+typeinfo ZShell.qmltypes
+prefer :/qt/qml/ZShell/
+depends QtQuick
+

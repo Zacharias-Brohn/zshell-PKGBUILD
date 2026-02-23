@@ -1,0 +1,7 @@
+module ZShell.Services
+linktarget ZShell-servicesplugin
+optional plugin ZShell-servicesplugin
+classname ZShell_ServicesPlugin
+typeinfo ZShell-services.qmltypes
+prefer :/qt/qml/ZShell/Services/
+
