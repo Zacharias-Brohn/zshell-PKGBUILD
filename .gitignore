@@ -1,4 +1,4 @@
 src/
 pkg/
 zshell/
-*.tar.*
+*.tar.zst
