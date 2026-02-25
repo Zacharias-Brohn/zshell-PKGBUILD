@@ -8,7 +8,7 @@ license=('GPL-3.0-only')
 depends=('python' 'python-pillow' 'python-materialyoucolor' 'libnotify' 'swappy' 'dart-sass'
 	'app2unit' 'wl-clipboard' 'dconf' 'cliphist' 'python-typer')
 makedepends=('python-build' 'python-installer' 'python-hatch' 'python-hatch-vcs')
-source=("$pkgname::git+$url.git#branch=settingsWindow")
+source=("$pkgname::git+$url.git#branch=horizontal-media-widget")
 sha256sums=('SKIP')
 
 build() {
